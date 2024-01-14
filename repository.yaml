@@ -1,4 +1,3 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: gordlea's Home Assistant add-on repository
-url: 'https://github.com/gordlea/home-assistant-addons'
-maintainer: Gord Lea <jgordonlea@gmail.com>
+name: marcus's Home Assistant add-on repository (forked from gordlea)
+url: 'https://github.com/marcushill12/home-assistant-addons'
